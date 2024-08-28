@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Domain", "Post.Q
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Infrastructure", "Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure.csproj", "{1A423B4C-E8AA-4A40-B2F0-93A3C688B2CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Common", "Post.Common\Post.Common.csproj", "{876B1F92-6BFD-4AA7-B1CC-6085C4FB7D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{1A423B4C-E8AA-4A40-B2F0-93A3C688B2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A423B4C-E8AA-4A40-B2F0-93A3C688B2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A423B4C-E8AA-4A40-B2F0-93A3C688B2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876B1F92-6BFD-4AA7-B1CC-6085C4FB7D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876B1F92-6BFD-4AA7-B1CC-6085C4FB7D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876B1F92-6BFD-4AA7-B1CC-6085C4FB7D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876B1F92-6BFD-4AA7-B1CC-6085C4FB7D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE4F7C00-1CD6-45AB-A7D6-1B6278FF44CA} = {3BB0AA04-19EA-494B-98E3-4EDB12F0BAE2}
