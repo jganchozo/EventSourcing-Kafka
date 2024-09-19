@@ -7,4 +7,6 @@ public class MessageUpdatedEvent : BaseEvent
     {
         
     }
+
+    public string Message { get; set; }
 }
